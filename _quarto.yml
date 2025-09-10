@@ -1,0 +1,73 @@
+project:
+  type: website
+
+website:
+  title: "Herbario Universidad de Antioquia HUA"
+  description: |
+    Sitio web del las charlas en el Herbario Universidad de Antioquia HUA
+    «Matas y algo más…».
+  site-url: https://herbariohua.github.io/matas/
+  repo-url: https://github.com/herbariohua/matas/
+
+  image: images/hua_logo.png
+
+  page-navigation: true
+  bread-crumbs: true
+
+  google-analytics:
+    tracking-id: "G-0RYR7PEF31"
+    anonymize-ip: true
+
+  twitter-card:
+    card-style: summary_large_image
+
+  open-graph:
+    title: "Charlas en el Herbario «Matas y algo más…»"
+    image: images/hua_logo.png
+
+  navbar:
+    right:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "HUA"
+        href: https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ciencias-exactas-naturales/herbario
+    tools:
+      - text: "Facebook"
+        href: https://www.facebook.com/herbariohua/
+        icon: facebook
+      - text: "Instragram"
+        href: https://www.instagram.com/herbariohua/
+        icon: instagram
+      - text: "GitHub"
+        href: https://github.com/herbariohua/
+        icon: github
+
+  page-footer:
+    left: | 
+      Herbario Universidad de Antioquia HUA © 2025. Este sitio web está bajo una licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    center:
+      - icon: facebook
+        href: https://www.facebook.com/herbariohua/
+      - icon: instagram
+        href: https://www.instagram.com/herbariohua/
+      - icon: github
+        href: https://github.com/herbariohua/
+    right: |
+      Hecho por [\@alexespinosaco](https://alexespinosaco.github.io) con
+      [![](https://www.r-project.org/logo/Rlogo.svg){fig-alt="R" width=21px}](https://www.r-project.org/)
+      y [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+
+lang: es
+date-format: iso
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: solar
+    respect-user-color-scheme: true
+    css: styles.scss
+    toc: false
