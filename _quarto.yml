@@ -60,6 +60,8 @@ website:
 lang: es
 date-format: iso
 
+lightbox: true
+
 execute:
   freeze: auto
 
