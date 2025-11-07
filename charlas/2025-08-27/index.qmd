@@ -1,0 +1,12 @@
+---
+title: "Los helechos y las licófitas de la Reserva Natural El Romeral, Angelópolis"
+author: 
+  - name: 
+      given: "Victor"
+      family: "Saldarriaga Buitrago"
+
+date: 2025-08-27
+image: image.jpg
+---
+
+![](image.jpg)

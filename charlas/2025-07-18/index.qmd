@@ -1,0 +1,12 @@
+---
+title: "Etnobotánica: usos y un poco más allá con los números"
+author: 
+  - name: 
+      given: "Bladimir"
+      family: "Vera Marín"
+
+date: 2025-07-18
+image: image.jpg
+---
+
+![](image.jpg)

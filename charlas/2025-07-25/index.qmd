@@ -1,0 +1,12 @@
+---
+title: "Indumento… ¿en Clusiaceae?: un relato sobre cómo un carácter puede cambiar todo lo que crees saber de una familia"
+author: 
+  - name: 
+      given: "Angy Vanesa"
+      family: "Caro Sánchez"
+
+date: 2025-07-25
+image: image.jpg
+---
+
+![](image.jpg)

@@ -1,0 +1,12 @@
+---
+title: "Más que un listado de especies: la historia de un ecosistema contada por un helecho"
+author: 
+  - name: 
+      given: "Ana Sofía"
+      family: "Gil Rámirez"
+
+date: 2025-10-24
+image: image.jpg
+---
+
+![](image.jpg)

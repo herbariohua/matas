@@ -1,0 +1,12 @@
+---
+title: "Líquenes: formas, funciones y fascinaciones"
+author: 
+  - name: 
+      given: "Paola"
+      family: "Sorcia"
+
+date: 2025-06-26
+image: image.jpg
+---
+
+![](image.jpg)

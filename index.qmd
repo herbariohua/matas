@@ -1,3 +1,23 @@
 ---
 title: "Charlas en el Herbario «Matas y algo más…»"
+
+listing:
+  - id: charlas
+    contents: charlas/**/index.qmd
+    sort:
+      - "date desc"
+      - "author"
+      - "title"
+    type: grid
+    image-height: 550px
+    image-placeholder: images/placeholder.png
+    categories: false
+    sort-ui: true
+    filter-ui: true
+    fields: [image, title, author, date]
+    grid-columns: 2
+    # page-size: 10
 ---
+
+::: {#charlas}
+:::

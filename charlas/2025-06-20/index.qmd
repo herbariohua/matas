@@ -1,0 +1,12 @@
+---
+title: "¡Qué nos puede decir la morfología de las plantas sobre la regeneración de los ecosistemas?"
+author: 
+  - name: 
+      given: "Jose Miguel"
+      family: "Rojas Villaa"
+
+date: 2025-06-20
+image: image.jpg
+---
+
+![](image.jpg)

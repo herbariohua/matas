@@ -1,0 +1,12 @@
+---
+title: "Revisión taxonómica del género <i>Machaerium</i> Pers. (Fabaceae) para el departamento de Antioquia"
+author: 
+  - name: 
+      given: "Wilder"
+      family: "Buitrago Arbeláez"
+
+date: 2025-08-01
+image: image.jpg
+---
+
+![](image.jpg)

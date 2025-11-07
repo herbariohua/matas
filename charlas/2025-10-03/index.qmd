@@ -1,0 +1,12 @@
+---
+title: "Joaquín Antonio Uribe, vida y obra de un naturalista y botánico antioqueño"
+author: 
+  - name: 
+      given: "Juan Pablo"
+      family: "Franco Herrera"
+
+date: 2025-10-03
+image: image.jpg
+---
+
+![](image.jpg)

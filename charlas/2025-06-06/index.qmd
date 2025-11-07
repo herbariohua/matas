@@ -1,0 +1,12 @@
+---
+title: "Herbario HUA: colección y curatoría"
+author: 
+  - name: 
+      given: "Heriberto Antonio"
+      family: "David Higuita"
+
+date: 2025-06-06
+image: image.jpg
+---
+
+![](image.jpg)

@@ -1,0 +1,12 @@
+---
+title: "Visibilizando el Arboretum y Palmetum León Morales Soto de la UNAL Medellín"
+author: 
+  - name: 
+      given: "Camilo"
+      family: "Restrepo Caro"
+
+date: 2025-09-12
+image: image.jpg
+---
+
+![](image.jpg)

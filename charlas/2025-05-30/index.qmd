@@ -1,0 +1,12 @@
+---
+title: "Monilofitos del Alto Atrato: diversidad taxonómica y etnobotánica"
+author: 
+  - name: 
+      given: "Jhon Freddys"
+      family: "Pérez Mosquera"
+
+date: 2025-05-30
+image: image.jpg
+---
+
+![](image.jpg)

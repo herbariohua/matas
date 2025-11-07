@@ -1,0 +1,12 @@
+---
+title: "Aproximación al conocimiento de algunas plantas útiles para la comunidad Misak"
+author: 
+  - name: 
+      given: "Joan Sebastián"
+      family: "Vásquez Peña"
+
+date: 2025-08-22
+image: image.jpg
+---
+
+![](image.jpg)

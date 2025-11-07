@@ -1,0 +1,12 @@
+---
+title: "Una nueva colección: carpoteca HUA"
+author: 
+  - name: 
+      given: "Manuela"
+      family: "López Restrepo"
+
+date: 2025-11-07
+image: image.jpg
+---
+
+![](image.jpg)

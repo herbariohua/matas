@@ -1,0 +1,12 @@
+---
+title: "Aráceas de la Amazonía colombiana"
+author: 
+  - name: 
+      given: "Edwin"
+      family: "Trujillo Trujillo"
+
+date: 2025-08-15
+image: image.jpg
+---
+
+![](image.jpg)

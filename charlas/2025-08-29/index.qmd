@@ -1,0 +1,15 @@
+---
+title: "Mapeando los yarumos de Medellín"
+author: 
+  - name: 
+      given: "Laura Maria"
+      family: "Aubad Lopera"
+  - name: 
+      given: "Daniela"
+      family: "Gutierrez Medina"
+
+date: 2025-08-29
+image: image.jpg
+---
+
+![](image.jpg)
