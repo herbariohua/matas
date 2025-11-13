@@ -1,0 +1,12 @@
+---
+title: "Divulgación científica en el Herbario HUA: retos y oportunidades"
+author: 
+  - name: 
+      given: "Yeiner"
+      family: "Bedoya Herrera"
+
+date: 2025-11-13
+image: image.jpg
+---
+
+![](image.jpg)
