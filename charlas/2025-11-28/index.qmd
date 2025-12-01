@@ -1,0 +1,12 @@
+---
+title: "Una mirada a los frutos de la familia Solanaceae"
+author: 
+  - name: 
+      given: "Santiago"
+      family: "Pérez Ospina"
+
+date: 2025-11-28
+image: image.jpg
+---
+
+![](image.jpg)
