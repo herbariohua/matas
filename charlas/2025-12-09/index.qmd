@@ -1,0 +1,12 @@
+---
+title: "Chrysochlamys (Clusiaceae) de Colombia: un grupo neotropical poco conocido"
+author: 
+  - name: 
+      given: "Angy Vanesa"
+      family: "Caro Sánchez"
+
+date: 2025-12-09
+image: image.jpg
+---
+
+![](image.jpg)
