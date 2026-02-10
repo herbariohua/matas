@@ -1,0 +1,12 @@
+---
+title: "Morfología general de la familia Asteraceae"
+author: 
+  - name: 
+      given: "Angélica"
+      family: "Arcila Lopera"
+
+date: 2026-02-06
+image: image.jpg
+---
+
+![](image.jpg)

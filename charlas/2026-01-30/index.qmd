@@ -1,0 +1,12 @@
+---
+title: "Flor de la pasión: más que un simple uso"
+author: 
+  - name: 
+      given: "Laura Liceth"
+      family: "Torres"
+
+date: 2026-01-30
+image: image.jpg
+---
+
+![](image.jpg)
